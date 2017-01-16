@@ -1,0 +1,13 @@
+git clone https://github.com/sprite1906/test.git - jak mam na serwerze i chce
+mieć na kompie
+
+
+jak tworzymy nowe to:
+1. Dodajemy nazwe i email  git config --global user.name "sprite1906"
+2. Tworzymy folder wchodzimy do niego i git init i mozze być użyty
+3. Dodajemy link do repozytorium git remote add origin i link
+4. mozemy dodawać pliku i je usuwać używająć git add i git rm
+5. co nowego sprawdzamy git status
+6. Po użyciu git add albo rm comitujemy czyli git commit -m "co zmienilismy"
+7. git push -u origin master wysyłamy
+
